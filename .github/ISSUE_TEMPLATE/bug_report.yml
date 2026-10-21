@@ -1,0 +1,20 @@
+name: Example or documentation issue
+description: Report a reproducible issue without sharing API keys or private data.
+body:
+  - type: markdown
+    attributes:
+      value: "Do not post API keys, Authorization headers or private conversations. Read SECURITY.md for sensitive reports."
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment and example
+      description: OS, runtime version, example file and repository version.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction and expected result
+      description: Include only sanitized commands and error information.
+    validations:
+      required: true

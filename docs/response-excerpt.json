@@ -1,0 +1,11 @@
+{
+  "note": "2026-10-21 cURL 实测响应的字段摘录，省略请求标识和其他字段；不是完整原始响应",
+  "model": "deepseek-v4.1-flash",
+  "choices": [
+    {
+      "message": {"role": "assistant", "content": "ModelFlux connection OK"},
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {"prompt_tokens": 39, "completion_tokens": 35, "total_tokens": 74}
+}

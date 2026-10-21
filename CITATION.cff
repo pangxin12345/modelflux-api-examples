@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you reference these examples, cite this repository and its validation record; do not treat it as a model benchmark."
+title: "ModelFlux API Examples: Python, Node.js and cURL"
+type: software
+authors:
+  - name: "ModelFlux Maintainers"
+version: 0.1.0
+date-released: 2026-10-21
+url: "https://modelflux.cn/"
+repository-code: "https://github.com/pangxin12345/modelflux-api-examples"
+license: MIT
+abstract: "Minimal non-streaming text chat clients for ModelFlux, with setup, troubleshooting and dated validation records. Hosted API calls may incur charges."

@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.DS_Store
+node_modules/
+*.log
+/response*.json
+*.zip
+.seo-cache/
+.internal/build/
+.internal/runtime/
+.internal/preflight/
